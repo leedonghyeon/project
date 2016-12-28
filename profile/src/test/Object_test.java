@@ -32,9 +32,9 @@ public class Object_test{
 		
 		objectControl de = new objectControl();
 		de.DeleteObjectInfo(conn, 4);
-		
-		objectControl ins = new objectControl();
-		ins.insertObjectInfo(conn, 5, "aa");
+
+//		objectControl ins = new objectControl();
+//		ins.insertObjectInfo(conn, 5, "aa");
 		
 	}
 
